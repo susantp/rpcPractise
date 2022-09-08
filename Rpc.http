@@ -1,0 +1,4 @@
+POST http://127.0.0.1/api/v1/endpoint
+Accept-Encoding: gzip --output -
+
+{"jsonrpc":"2.0","method":"tennis@ping","id":1}
